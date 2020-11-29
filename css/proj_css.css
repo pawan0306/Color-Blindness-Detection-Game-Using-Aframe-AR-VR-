@@ -1,0 +1,15 @@
+#maze_button{
+  position: fixed;
+  top : 30px;
+  left: 30px;
+  border: 2pt;
+  border-style: solid;
+  border-width: 5px;
+  background-color: white;
+  color: green;
+  text-align: center;
+  font-size: 25pt;
+  margin:auto;
+  cursor: pointer;
+  margin-bottom:30px;
+}

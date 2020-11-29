@@ -1,0 +1,63 @@
+body {
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-family: 'Red Rose';
+    padding: 0 0 0 0;
+    margin: 10 0 0 0;
+    font-size: 80px;
+    position: absolute;
+    left: 130px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#background {
+    background: url("background.jpg") no-repeat;
+    height: 100%;
+    background-size: cover;
+}
+
+#logo {
+    position: absolute;
+    top: 125px;
+    left: 700px;
+}
+
+#logoimg {
+    height: 400px;
+    mix-blend-mode: lighten;
+}
+
+#start {
+    position: absolute;
+    font-size: 40px;
+    top: 500px;
+    left: 650px;
+    padding: 15px 15px 15px 15px;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 640px;
+    text-align: center;
+}
+
+#instructions {
+    position: absolute;
+    top: 600px;
+    font-size: 40px;
+    left: 650px;
+    padding: 15px 15px 15px 15px;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 640px;
+    text-align: center;
+}
